@@ -1,0 +1,3 @@
+{
+    "postStartCommand": "bash /workspaces/HPC-I_HW1/.devcontainer/init.sh"
+}
